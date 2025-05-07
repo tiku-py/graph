@@ -1,4 +1,5 @@
 matplotlib
+sympy
 streamlit
 numpy
 pandas
